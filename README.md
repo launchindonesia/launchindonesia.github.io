@@ -6,4 +6,4 @@ Tutorial, troubleshooting, dan Q&A seputar sistem operasi Windows 10 dan 11, ser
 - [**Excel Indonesia**](https://excelindonesia.id)
 - [**Word Indonesia**](https://wordindonesia.id)
 
-Official YouTube Channel [**Launch Indonesia**](https://www.youtube.com/channel/UCxNKZsgtxVGnzcqjNd7ZFFQ).
+Official YouTube Channel [**Launch Indonesia**](https://www.youtube.com/c/launchid).
