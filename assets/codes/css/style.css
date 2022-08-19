@@ -6,7 +6,8 @@
 body {
 	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 	margin: 0;
-	padding: 0
+	padding: 0;
+	background-color: #fff
 }
 
 a {
@@ -22,7 +23,6 @@ img {
 
 #main {
 	height: 70vh;
-	background-color: #fff;
 	color: #242424
 }
 
@@ -33,16 +33,17 @@ img {
 
 #social {
 	height: 20vh;
-	background-color: #fff;
 	color: #242424
 }
 
 #copyright {
 	height: 10vh;
 	background-color: #ff0046;
-	color: #fff;
+	color: #575760;
 	margin: auto;
-	text-align: center
+	text-align: center;
+	border-top: 1px solid;
+	border-color: #dee4ee
 }
 
 .flex {
