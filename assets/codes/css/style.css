@@ -41,7 +41,8 @@ img {
 	margin: auto;
 	text-align: center;
 	border-top: 1px solid;
-	border-color: #dee4ee
+	border-color: #dee4ee;
+	font-size: .875rem
 }
 
 #copyright a {
