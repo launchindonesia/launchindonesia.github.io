@@ -11,8 +11,7 @@ body {
 }
 
 a {
-	text-decoration: none;
-	color: #fff
+	text-decoration: none
 }
 
 img {
@@ -38,7 +37,6 @@ img {
 
 #copyright {
 	height: 10vh;
-	background-color: #ff0046;
 	color: #575760;
 	margin: auto;
 	text-align: center;
