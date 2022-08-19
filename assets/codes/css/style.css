@@ -44,6 +44,10 @@ img {
 	border-color: #dee4ee
 }
 
+#copyright a {
+	color: #575760;
+}
+
 .flex {
 	display: flex;
 	flex-direction: column;
