@@ -13,5 +13,4 @@ Tautan resmi Launch Indonesia.
 - [**Instagram**](https://www.instagram.com/launchid)
 - [**Facebook**](https://www.facebook.com/launchid)
 - [**Twitter**](https://twitter.com/launchidn)
-- [**Telegram**](https://t.me/launchid)
 - [**LinkedIn**](https://www.linkedin.com/company/launchid)
