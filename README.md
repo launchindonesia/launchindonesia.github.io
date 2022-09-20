@@ -1,6 +1,6 @@
 # Launch Indonesia
 
-Berita, tips, tutorial, dan troubleshooting seputar sistem operasi Windows 10 dan 11, serta panduan lengkap program aplikasi Microsoft Word dan Excel.
+Berita, tips, tutorial, dan troubleshooting seputar sistem operasi Windows, serta panduan lengkap program aplikasi Microsoft Word dan Excel.
 
 - [**Windows Indonesia**](https://windowsindonesia.com)
 - [**Excel Indonesia**](https://excelindonesia.com)
